@@ -1,0 +1,277 @@
+{
+  "fullName": "Mara Sambelahatse",
+  "firstName": "Mara",
+  "lastName": "Sambelahatse",
+  "title": "Développeur WEB Full Stack",
+  "bio": [
+    "Bonjour ! Je m'appelle Mara. Depuis mon plus jeune âge, j'ai été fasciné par la façon dont les ordinateurs et l'internet façonnent notre monde. C'est cette curiosité qui m'a conduit à devenir un développeur web passionné et autodidacte.",
+    "Je me spécialise dans le développement Full Stack, en utilisant des technologies modernes comme React et TypeScript pour le front-end, et PHP, Node.js ou Python pour le back-end. Mon objectif est de créer des applications web élégantes, performantes et intuitives qui résolvent des problèmes concrets.",
+    "En dehors du code, j'aime explorer de nouvelles technologies, me tenir à jour des dernières tendances du web et travailler sur des projets personnels qui me permettent de repousser mes limites. Je suis toujours à la recherche de nouveaux défis et d'opportunités de collaboration."
+  ],
+  "email": "marasambilahy@gmail.com",
+  "phone1": "+261 34 05 857 21",
+  "phone2": "+261 33 49 805 70",
+  "cv": "https://drive.google.com/file/d/19l4x3q038UmCuZ2dwq0QvzgiI58bCd6_/view?usp=sharing",
+  "avatarUrlRed": "/assets/profil-avatar-bg-red.png",
+  "avatarUrlBlue": "/assets/profil-avatar-bg-blue.png",
+  "copyrightName": "Mara Sambelahatse",
+  "addresse": "Antananarivo, Madagascar, Lot IJ 65 Bis, Andavamamba",
+  "linkedin": "https://www.linkedin.com/in/sambelahatse-mara",
+  "github": "https://github.com/Sambelahatse",
+  "projects": [
+    {
+      "name": "Lasy Net",
+      "description": "LasyNet est une application web complète dédiée à la gestion et au suivi d'un cyber café.",
+      "image": "/assets/lasynet.png",
+      "url": "#",
+      "long_description": "LasyNet est une solution complète pour la gestion efficace d'un cyber café. Elle permet de contrôler le temps d'utilisation des postes, de suivre les sessions des clients, d'automatiser la facturation en fonction du temps passé, et d'offrir une vue d'ensemble claire de l'activité quotidienne. Conçue pour simplifier le travail du gérant, LasyNet améliore l'organisation, optimise la rentabilité et modernise la gestion de votre cyber café.",
+      "features": [
+        "Gestion des postes informatiques",
+        "Suivi des sessions clients",
+        "Facturation automatisée",
+        "Rapports d'activité en temps réel",
+        "Tableau de bord administrateur",
+        "Système de gestion des utilisateurs"
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "Tailwind CSS"
+      ],
+      "github_url": "https://github.com/Sambelahatse/LasyNet",
+      "website_url": "#"
+    },
+    {
+      "name": "hellopro.fr",
+      "description": "Hellopro.fr est une marketplace B2B française qui connecte des entreprises acheteuses et des fournisseurs professionnels.",
+      "image": "/assets/hellopro.png",
+      "url": "https://www.hellopro.fr",
+      "long_description": "Hellopro.fr est une plateforme B2B révolutionnaire qui met en relation des entreprises acheteuses avec des fournisseurs professionnels qualifiés. Elle permet aux acheteurs de formuler des demandes de devis et de recevoir des propositions personnalisées, tandis que les vendeurs bénéficient d'une visibilité importante et de leads qualifiés. La plateforme couvre de nombreux secteurs industriels et offre une solution simple, rapide et gratuite pour les acheteurs professionnels.",
+      "features": {
+        "features": [
+          {
+            "module": "Front public (hellopro.fr)",
+            "features": [
+              "Recherche de produits",
+              "Recherche de fournisseurs",
+              "Recherche par catégorie",
+              "Autocomplete recherche",
+              "Filtres avancés (prix, marque, localisation, disponibilité)",
+              "Catalogue de catégories",
+              "Pages catégories et sous-catégories",
+              "Listing produits",
+              "Pagination",
+              "Pages produit détaillées",
+              "Galerie images produit",
+              "Caractéristiques techniques",
+              "Produits similaires",
+              "Formulaire demande de devis",
+              "Comparateur de produits",
+              "Comparateur de prix",
+              "Tableau comparatif",
+              "Inscription acheteur",
+              "Inscription vendeur",
+              "Connexion utilisateur",
+              "Gestion profil",
+              "Guides d’achat",
+              "Blog / contenu SEO",
+              "Pages landing sectorielles"
+            ]
+          },
+          {
+            "module": "Back-Office Admin (bo.hellopro.fr)",
+            "features": [
+              "Gestion utilisateurs",
+              "Validation comptes",
+              "Suspension comptes",
+              "Gestion acheteurs",
+              "Gestion fournisseurs",
+              "Gestion catégories",
+              "Gestion produits",
+              "Validation fiches produits",
+              "Modération contenu",
+              "Gestion des demandes de devis",
+              "Assignation des leads",
+              "Qualification leads",
+              "Suivi conversions",
+              "Gestion templates emails",
+              "Notifications emails",
+              "Campagnes email",
+              "Relances automatiques",
+              "Gestion pages SEO",
+              "Gestion blog",
+              "Analytics trafic",
+              "Analytics leads",
+              "Performance fournisseurs",
+              "Configuration plateforme",
+              "Gestion API",
+              "Gestion intégrations"
+            ]
+          },
+          {
+            "module": "Espace vendeur (mc.hellopro.fr)",
+            "features": [
+              "Dashboard vendeur",
+              "Gestion profil entreprise",
+              "Gestion informations entreprise",
+              "Upload logo",
+              "Gestion catalogue produits",
+              "Ajouter produit",
+              "Modifier produit",
+              "Supprimer produit",
+              "Importer catalogue CSV/XML",
+              "Gestion images produits",
+              "Gestion caractéristiques techniques",
+              "Gestion prix produits",
+              "Promotions",
+              "Prix par volume",
+              "Réception demandes de devis",
+              "Répondre aux leads",
+              "Envoyer devis",
+              "Statut leads",
+              "Statistiques ventes",
+              "Statistiques leads",
+              "Performance catalogue",
+              "Notifications nouveaux leads",
+              "Messagerie avec acheteurs"
+            ]
+          },
+          {
+            "module": "Espace acheteur (mca.hellopro.fr)",
+            "features": [
+              "Création compte acheteur",
+              "Gestion profil entreprise",
+              "Créer demande de devis",
+              "Suivi demandes de devis",
+              "Historique demandes",
+              "Comparer devis fournisseurs",
+              "Choisir fournisseur",
+              "Sauvegarder produits favoris",
+              "Sauvegarder fournisseurs favoris",
+              "Messagerie fournisseurs",
+              "Notifications réponses devis"
+            ]
+          },
+          {
+            "module": "Comparateur matériel (materiel.hellopro.fr)",
+            "features": [
+              "Comparateur produits similaires",
+              "Comparateur prix fournisseurs",
+              "Tableau comparatif caractéristiques",
+              "Filtres prix",
+              "Filtres marque",
+              "Filtres performance",
+              "Affichage offres multiples",
+              "Tri prix croissant / décroissant"
+            ]
+          },
+          {
+            "module": "API (api.hellopro.fr)",
+            "features": [
+              "API catalogue produits",
+              "API catégories",
+              "API fournisseurs",
+              "API création leads",
+              "API récupération leads",
+              "API gestion catalogue fournisseurs",
+              "API statistiques",
+              "Webhooks nouveaux leads",
+              "Webhooks mise à jour catalogue",
+              "Authentification API",
+              "Gestion clés API"
+            ]
+          }
+        ]
+      },
+      "technologies": [
+        "React",
+        "Node.js",
+        "PHP",
+        "PYTHON",
+        "MongoDB",
+        "Docker",
+        "MySQL",
+        "GCP"
+      ],
+      "github_url": "null",
+      "website_url": "https://www.hellopro.fr"
+    },
+    {
+      "name": "Korobo app",
+      "description": "L'application KOROBO vous permet de gérer efficacement la maintenance de vos sites photovoltaïques.",
+      "image": "/assets/korobo-app.png",
+      "url": "#",
+      "long_description": "Korobo est une application intelligente de gestion de maintenance pour installations photovoltaïques. Elle permet de suivre en temps réel les performances de vos installations, planifier des interventions de maintenance préventive et corrective, et accéder à des rapports détaillés pour optimiser la gestion de vos actifs solaires. Avec ses fonctionnalités d'analyse prédictive, Korobo aide à maximiser la production d'énergie et minimiser les temps d'arrêt.",
+      "features": [
+        "Suivi en temps réel des performances",
+        "Planification de maintenance préventive et corrective",
+        "Rapports détaillés et analytiques",
+        "Analyse prédictive des défaillances",
+        "Gestion des interventions techniques",
+        "Dashboard de suivi des actifs solaires"
+      ],
+      "technologies": [
+        "React Native",
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "IoT Sensors"
+      ],
+      "github_url": "#",
+      "website_url": "#"
+    },
+    {
+      "name": "Ge CARBURANT",
+      "description": "Une solution complète et moderne dédiée à la gestion de l'attribution des quotas de carburant pour vos employés.",
+      "image": "/assets/ge-carbu.png",
+      "url": "#",
+      "long_description": "Ge CARBURANT est une plateforme innovante pour la gestion automatisée des quotas de carburant en entreprise. Elle permet d'automatiser la distribution, de contrôler les consommations, et de suivre en temps réel l'utilisation des carburants au sein de votre organisation. Grâce à une interface intuitive et des outils d'analyse avancés, vous optimisez votre budget, réduisez les abus et améliorez la transparence dans la gestion énergétique de votre entreprise.",
+      "features": [
+        "Attribution automatisée des quotas",
+        "Suivi de consommation en temps réel",
+        "Rapports détaillés par employé",
+        "Système d'alertes et notifications",
+        "Gestion des exceptions et approbations",
+        "Intégration avec systèmes RH"
+      ],
+      "technologies": [
+        "Vue.js",
+        "Laravel",
+        "MySQL",
+        "Redis",
+        "Chart.js"
+      ],
+      "github_url": "#",
+      "website_url": "#"
+    },
+    {
+      "name": "Météo du jour",
+      "description": "Météo du jour est une application web qui fournit des prévisions météorologiques précises et en temps réel pour n'importe quelle ville.",
+      "image": "/assets/Toe-trandro-anio.png",
+      "url": "#",
+      "long_description": "Météo du jour est une application web qui fournit des prévisions météorologiques précises et en temps réel pour n'importe quelle ville. Elle permet de suivre les conditions climatiques en direct et de planifier vos activités en conséquence.",
+      "features": [
+        "Prévisions météorologiques en temps réel",
+        "Alertes météorologiques personnalisées",
+        "Visualisation des données climatiques",
+        "Interface conviviale et responsive",
+        "Support pour les langues FR/MG",
+        "Intégration avec les réseaux sociaux pour partager les conditions météo"
+      ],
+      "technologies": [
+        "React",
+        "Express",
+        "MySQL",
+        "OpenWeatherMap API",
+        "Open Meteo API",
+        "Nominatim",
+        "Lucide React",
+        "Tailwind CSS"
+      ],
+      "github_url": "https://github.com/Sambelahatse/meteo-madagascar",
+      "website_url": "https://toetrandro-anio.onrender.com"
+    }
+  ]
+}
